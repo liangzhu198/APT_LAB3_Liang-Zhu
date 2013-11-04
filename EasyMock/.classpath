@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/objenesis-tck-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/mockobjects-0.6-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/mockobjects-0.6-j1.4-j2ee1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/selenium-server-standalone-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/easymock-3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/easymock-3.0-samples.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/easymock-3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liang/git/APT_LAB3_Liang-Zhu/EasyMock/easymock-3.0-tests.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
